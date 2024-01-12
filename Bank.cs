@@ -1,6 +1,6 @@
 using System;
 
-class Program
+class Bank
 {
     static void Main()
     {
